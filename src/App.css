@@ -1,0 +1,92 @@
+.MyName {
+    font-size: 50px;
+}
+.navbar-transparent {
+    background-color: transparent !important;
+    box-shadow: none !important;
+    
+  }
+  .CardBody {
+    padding-left: 10%;
+  }
+.aboutMe {
+   margin-bottom: 100px;
+    margin-top: 200px;
+}
+.font {
+    font-size:39px;
+    margin-top: 50px;
+
+}
+
+.skills {
+margin-top: 200px;
+margin-bottom: 200px;
+
+}
+.space {
+    margin-bottom: 100px;
+}
+
+.NavMargin {
+  
+    margin-bottom: 400px;
+   
+}
+.portfolio {
+    display:flex;
+    justify-content: center;
+    margin-bottom: 300px;
+}
+.projects{
+    margin-top: 200px;
+    /* margin-bottom: 200px; */
+}
+.contact {
+    display:flex;
+    justify-content: center;
+    margin-bottom: 150px;
+    margin-top: 300px;
+}
+
+.MyImage {
+    display:flex;
+    justify-content: center;
+    margin-bottom: 300px;
+    height: 610px;
+    width: 600px;
+    top: 50%;
+    left: 5%;
+    transform: translate(-10%, -0%);
+}
+.overlay-text {
+    position: absolute;
+    display:flex;
+    text-align: center;
+    width: 900px;
+    top: 45%;
+    left: 45%;
+    transform: translate(-70%, -50%);
+    font-size: 160px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    z-index: 2; /* Ensure the h2 is above the image */
+  } 
+  .floating-icons-container {
+    display: flex;
+    justify-content: space-around; /* Adjust as needed */
+    align-items: center;
+    margin-top: 10px; /* Adjust as needed */
+  }
+  
+  .floating-icons-container img {
+    width: 200px;
+    height: 200px;
+    margin: 0 50px; /* Adjust as needed */
+  }
+  
+
+  
+
+  
